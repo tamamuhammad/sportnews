@@ -1,0 +1,66 @@
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: khaki;
+    text-decoration: none;
+}
+.btn:hover {
+    margin-top:-.25rem;
+    margin-bottom:.25rem
+}
+.up:hover {
+    margin-top:-.25rem;
+    margin-bottom:.25rem
+}
+.logo {
+    margin-top: -3px;
+}
+.dropdown:hover>.dropdown-menu  {
+    display: block;
+}
+.h {
+    color: white;
+}
+.navbar {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.navbar-nav {
+    margin-left: -15px;
+}
+.nav-item   {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.nav-item:hover {
+    background-color: seagreen;
+}
+@media (max-width: 720px){
+    .navbar {
+        padding-top: 8px;
+        padding-bottom: 8px;
+    }
+}
+.carousel-caption {
+    text-shadow: 2px 2px 2px black
+}
+.jumbotron{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.gambar {
+    border-radius: 5px;
+}
+.other  {
+    border-left: 2px solid teal;
+    padding-left: 15px;
+}
+.rounded-circle {
+    width: 60px;
+    height: 60px;
+}
+.text-justify {
+    color:rgba(255,255,255,.5);
+}
